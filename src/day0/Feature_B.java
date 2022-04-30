@@ -5,5 +5,7 @@ public class Feature_B {
         System.out.println("Feature B");
 
         // Work 1 is created
+
+        // Work 2 is created
     }
 }
