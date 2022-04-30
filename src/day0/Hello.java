@@ -5,5 +5,7 @@ public class Hello {
         System.out.println("Hello World");
 
         // Work 1 is created
+
+        // Work 2 is created
     }
 }
